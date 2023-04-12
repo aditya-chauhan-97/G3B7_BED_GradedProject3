@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.greatlearning.tta.TtaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.454 s - in com.greatlearning.tta.TtaApplicationTests
